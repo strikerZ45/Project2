@@ -55,7 +55,7 @@ h1,h2,h3 {
 }
 #imgofme {
 	height: auto;
-    width: 45%;
+    width: 30%;
 	object-fit: contain;
 	float: left;
 	border-radius: 50%;
