@@ -38,3 +38,15 @@ h1, h2, h3 {
 	font-family: 'Young Serif', serif;
 	font-size: 40px;
 } 
+#main {
+	padding: 10% 20%;
+	background-color: white;
+}
+#footer {
+	clear: left;
+	background-color: #0540F2;
+	font-size: 20px;
+	padding: 5%;
+	color: white;	
+	font-family: 'Young Serif', serif;
+}
