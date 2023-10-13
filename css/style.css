@@ -45,6 +45,7 @@ body {
 #main {
 	background-color: white;
 	padding: 2% 20%;
+	padding-right: 10%
 }
 h1,h2,h3 {
 	font-family: 'Lekton', sans-serif;
