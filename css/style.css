@@ -50,3 +50,6 @@ h1, h2, h3 {
 	color: white;	
 	font-family: 'Young Serif', serif;
 }
+hr {
+	border: 5px solid black;
+}
