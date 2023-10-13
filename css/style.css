@@ -3,5 +3,7 @@ nav ul {
 	margin:0;
 	padding:0;
 	overflow: hidden;
-	
+	position: relative;
+	left: 50%;
+	float:left:
 }
