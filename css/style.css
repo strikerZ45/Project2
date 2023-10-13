@@ -4,11 +4,11 @@ nav ul {
 	padding:0;
 	overflow: hidden;
 	position: relative;
-	float:left;
 	background-color: black;
 	width: 100%;
 }
 nav ul li {
+	float: left;
 	left:50%;
 	position: relative;
 }
