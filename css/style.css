@@ -1,4 +1,4 @@
-#main {
+#nav-bar {
 	background-color: black;
 	overflow: hidden;
 }
@@ -7,7 +7,7 @@
 	width: 100%;
 	position: relative;
 }
-#main ul {
+#nav-bar ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -15,18 +15,18 @@
 	left: 50%;
 	float: left;
 }
-#main ul li {
+#nav-bar ul li {
 	float: left;
 	position: relative;
 	right: 50%;
 	display: block;
 }
-#main ul li a {
+#nav-bar ul li a {
 	display: block;
 	padding: 10px 20px;
 	color:#fff;
 	text-decoration: none;
 }
-#main ul li a:hover{
+#nav-bar ul li a:hover{
 	background-color: blue;
 }
