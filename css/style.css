@@ -46,3 +46,6 @@ body {
 	background-color: white;
 	padding: 2% 2%;
 }
+h1,h2,h3 {
+	font-family: 'Silkscreen', sans-serif;
+}
