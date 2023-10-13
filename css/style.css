@@ -5,7 +5,8 @@ nav ul {
 	overflow: hidden;
 	position: relative;
 	left: 50%;
-	float:left:
+	float:left;
+	background-color: black;
 }
 nav ul li {
 	float: left;
