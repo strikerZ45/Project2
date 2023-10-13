@@ -41,6 +41,8 @@ body {
   	line-height: 120%;
 	clear: both;
 	list-style-type: none;
+}
+#main {
 	background-color: white;
 	padding: 10% 20%;
 }
