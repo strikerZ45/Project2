@@ -7,3 +7,9 @@ nav ul {
 	left: 50%;
 	float:left:
 }
+nav ul li {
+	float: left;
+	display: block;
+	left:50%;
+	position: relative;
+}
