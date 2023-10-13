@@ -58,7 +58,7 @@ h1,h2,h3 {
     width: 30%;
 	object-fit: contain;
 	float: left;
-	border-radius: 50%;
+	border-radius: 30%;
 	margin: 5%;
 }
 iframe {
