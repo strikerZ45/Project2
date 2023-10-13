@@ -55,7 +55,7 @@ h1,h2,h3 {
 }
 iframe {
 	height: 300px;
-	width: 50%;
+	width: 100%;
 	border: 0;
 	position: static;
 }
