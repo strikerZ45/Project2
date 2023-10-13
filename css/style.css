@@ -55,10 +55,10 @@ h1,h2,h3 {
 }
 #Black {
 	height:400px;
-	width:50%;
+	width:65%;
 }
 iframe {
-	height: 300px;
+	height: 350px;
 	width: 100%;
 	border: 0;
 	position: static;
