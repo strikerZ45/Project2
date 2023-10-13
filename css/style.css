@@ -41,3 +41,6 @@ body {
   	line-height: 120%;
 	clear: both;
 }
+#main {
+	list-style-type: none;
+}
