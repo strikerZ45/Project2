@@ -48,6 +48,9 @@ body {
   padding: 2% 20%;
   padding-left: 10%
 }
+#main ul {
+  list-style-type: none;
+}
 h1,h2,h3 {
   font-family: 'Lekton', sans-serif;
 }
